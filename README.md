@@ -1,2 +1,2 @@
 # cv-basic-web
-Html and css code is used here
+ basic Html and css code is used here
