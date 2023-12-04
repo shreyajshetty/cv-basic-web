@@ -1,0 +1,44 @@
+*{
+    
+    background-color:#7f7d9c;
+   margin: 10px 10px 10px 10px;
+}
+
+@media(max-width:600px){
+    article,nav,section{
+        width:100%;
+        height:auto;
+        padding:20px ;
+        
+        
+}
+}
+#hello{
+    color:white;
+    padding:30px;
+    text-align:center;
+    margin:auto;
+    background-color: #7f7d9c;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section, nav, article{
+    padding:20px;
+    width:100%;
+}
+
+.bye{
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul
+{ list-style-type:circle;
+}
+
+section:nth-child(even)
+{
+    background-color: #c5c6d0; ;
+}
+section:nth-child(odd)
+{
+    background-color: #adadc9;
+}
