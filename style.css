@@ -13,7 +13,7 @@
         
 }
 }
-#hello{
+#name{
     color:white;
     padding:30px;
     text-align:center;
@@ -26,7 +26,7 @@ section, nav, article{
     width:100%;
 }
 
-.bye{
+.intro{
     color:white;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
